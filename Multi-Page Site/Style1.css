@@ -1,0 +1,47 @@
+body {
+    background-image: url("2316613_0.jpg");
+    background-color: black;
+}
+h1 {
+    color: rgb(145, 145, 145);
+    text-align: right;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 5px 10px;
+    border-radius: 10px;
+
+}
+p {
+  color: black;
+}
+nav{text-align: right; padding: 20px}
+    nav a {
+        font-size: 1.5em;
+        color: white;
+        font-weight: 400;
+        background: rgba(0, 0, 0, 1);
+        text-decoration: none;
+        padding: 10px 20px;
+        margin: 5px 10px;
+        border-radius: 20px; }
+    nav a:hover {
+        background: rgb(247, 247, 247);
+        color: rgb(220, 20, 20); }
+header {
+     background-image: url(Souls.png);
+     background-size: 400px, 190px;
+     text-align: right;
+     margin: 0px;
+     width: 100%;
+     height: auto; }
+
+.container{
+    max-width: 960px;
+    background: rgb(255, 255, 255);
+    border: 3px solid #388E3C;
+    border-radius: 5px;
+    padding: 0;
+    margin: 5px auto; }
+main {
+    padding: 25px;
+    margin: 5px auto; }
